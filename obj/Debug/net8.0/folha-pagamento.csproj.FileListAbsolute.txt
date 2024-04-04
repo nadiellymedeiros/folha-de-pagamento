@@ -1,0 +1,14 @@
+C:\Users\nadie\Documents\Nady\Curso-Ima\2024\Projetos\folha-pagamento\bin\Debug\net8.0\folha-pagamento.exe
+C:\Users\nadie\Documents\Nady\Curso-Ima\2024\Projetos\folha-pagamento\bin\Debug\net8.0\folha-pagamento.deps.json
+C:\Users\nadie\Documents\Nady\Curso-Ima\2024\Projetos\folha-pagamento\bin\Debug\net8.0\folha-pagamento.runtimeconfig.json
+C:\Users\nadie\Documents\Nady\Curso-Ima\2024\Projetos\folha-pagamento\bin\Debug\net8.0\folha-pagamento.dll
+C:\Users\nadie\Documents\Nady\Curso-Ima\2024\Projetos\folha-pagamento\bin\Debug\net8.0\folha-pagamento.pdb
+C:\Users\nadie\Documents\Nady\Curso-Ima\2024\Projetos\folha-pagamento\obj\Debug\net8.0\folha-pagamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadie\Documents\Nady\Curso-Ima\2024\Projetos\folha-pagamento\obj\Debug\net8.0\folha-pagamento.AssemblyInfoInputs.cache
+C:\Users\nadie\Documents\Nady\Curso-Ima\2024\Projetos\folha-pagamento\obj\Debug\net8.0\folha-pagamento.AssemblyInfo.cs
+C:\Users\nadie\Documents\Nady\Curso-Ima\2024\Projetos\folha-pagamento\obj\Debug\net8.0\folha-pagamento.csproj.CoreCompileInputs.cache
+C:\Users\nadie\Documents\Nady\Curso-Ima\2024\Projetos\folha-pagamento\obj\Debug\net8.0\folha-pagamento.dll
+C:\Users\nadie\Documents\Nady\Curso-Ima\2024\Projetos\folha-pagamento\obj\Debug\net8.0\refint\folha-pagamento.dll
+C:\Users\nadie\Documents\Nady\Curso-Ima\2024\Projetos\folha-pagamento\obj\Debug\net8.0\folha-pagamento.pdb
+C:\Users\nadie\Documents\Nady\Curso-Ima\2024\Projetos\folha-pagamento\obj\Debug\net8.0\folha-pagamento.genruntimeconfig.cache
+C:\Users\nadie\Documents\Nady\Curso-Ima\2024\Projetos\folha-pagamento\obj\Debug\net8.0\ref\folha-pagamento.dll

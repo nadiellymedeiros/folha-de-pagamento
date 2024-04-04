@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "folha-pagamento/1.0.0": {
+        "runtime": {
+          "folha-pagamento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "folha-pagamento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
